@@ -18,10 +18,10 @@ require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/hashicorp/go-version v1.3.0
 	github.com/henvic/httpretty v0.0.6
-	github.com/itchyny/gojq v0.12.9
+	github.com/itchyny/gojq v0.12.12
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/mattn/go-colorable v0.1.13
-	github.com/mattn/go-isatty v0.0.16
+	github.com/mattn/go-isatty v0.0.17
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
 	github.com/microcosm-cc/bluemonday v1.0.16 // indirect
 	github.com/muesli/reflow v0.2.1-0.20210502190812-c80126ec2ad5
@@ -37,7 +37,7 @@ require (
 	github.com/stretchr/testify v1.7.5
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20220829200755-d48e67d00261
+	golang.org/x/sys v0.5.0
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	gopkg.in/yaml.v3 v3.0.1
 )
